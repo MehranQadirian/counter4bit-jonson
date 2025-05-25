@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/Nima/Desktop/task/Counter_janson/Tb.xst" -ofn "C:/Users/Nima/Desktop/task/Counter_janson/Tb.syr" 

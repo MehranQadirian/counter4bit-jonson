@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/Nima/Desktop/task/Counter_janson/Tb_isim_beh.exe" -prj "C:/Users/Nima/Desktop/task/Counter_janson/Tb_beh.prj" "work.Tb" "work.glbl" 
